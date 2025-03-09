@@ -6,6 +6,8 @@
 ## Monday 30th June
 * Eurostar to Gare du Nord
   * 0731-1058
+  * coach 7, seat 37 and seat 38
+  * booking ref. WGTDKY
 * Gare de Lyon to Zurich
   * 1222-1626
   * still need to reserve seats
