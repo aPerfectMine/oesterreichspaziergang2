@@ -68,10 +68,10 @@
 ## Thursday 10th July
 
 ### Mike goes home
-
-## Friday 11th July
 * Geneva to Gare de Lyon
 * Gare du Nord to Saint Pancras
+
+## Friday 11th July
 
 ### Jim goes home
 * Geneva to Gare de Lyon
