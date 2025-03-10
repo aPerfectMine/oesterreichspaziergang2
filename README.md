@@ -24,7 +24,7 @@
 
 ## Tuesday 1st July
 * deposit luggage
-* travel to Neben
+* travel to Neder
   * bus or train
   * train would be free
 * walk to Innsbrucker Hütte
@@ -69,7 +69,10 @@
 
 ### Mike goes home
 * Geneva to Gare de Lyon
+  * 0829-1143
+  * still need to reserve a seat
 * Gare du Nord to Saint Pancras
+  * Eurostar 1431-1600
 
 ## Friday 11th July
 
