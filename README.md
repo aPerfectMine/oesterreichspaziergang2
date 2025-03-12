@@ -10,7 +10,8 @@
   * booking ref. WGTDKY
 * Gare de Lyon to Zurich
   * 1222-1626
-  * still need to reserve seats
+  * train TGS 9213
+  * coach 12, seat 103 and seat 104
 * Zurich to Innsbruck
   * 1640-2011
   * don't need to reserve seats ...
