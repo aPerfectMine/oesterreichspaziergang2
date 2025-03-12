@@ -4,7 +4,7 @@
 * Interrail passes
   * 701 euro
 * seat reservations
-  * Eurostar = 80 euro
+  * Eurostar to Paris = 80 euro
   * Paris to Zuerich = 82 euro
   * Geneva to Paris = 86 euro
 
