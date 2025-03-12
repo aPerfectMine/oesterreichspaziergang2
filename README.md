@@ -4,6 +4,7 @@
 * to London, stay in Royal KFC
 
 ## Monday 30th June
+* I41076569 (Jim) and I41076570 (Mike)
 * Eurostar to Gare du Nord
   * 0731-1058
   * coach 7, seat 37 and seat 38
@@ -71,7 +72,7 @@
 ### Mike goes home
 * Geneva to Gare de Lyon
   * 0829-1143
-  * still need to reserve a seat
+  * booked
 * Gare du Nord to Saint Pancras
   * Eurostar 1431-1600
 
@@ -80,7 +81,7 @@
 ### Jim goes home
 * Geneva to Gare de Lyon
   * 0829-1143
-  * still need to reserve a seat
+  * coach 13, seat 82
 * Gare du Nord to Saint Pancras
   * Eurostar 1602-1730
   * coach 3, seat 25
