@@ -1,4 +1,4 @@
-# last updated 20250309
+# last updated 20250316
 
 ## to buy QQ
 * 50l rucksack
@@ -6,7 +6,5 @@
 
 ## to book
 * train reservations
-  * mrhart Eurostar home
-  * Paris to Zurich
-  * Geneva to Paris (10th and 11th)
+  * Zuerich to Innsbruck, perhaps
 * luggage storage in Innsbruck
