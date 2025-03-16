@@ -8,7 +8,7 @@
 * Eurostar to Gare du Nord
   * 0731-1058
   * coach 7, seat 37 and seat 38
-  * booking ref. WGTDKY
+  * booking ref. W....Y
 * Gare de Lyon to Zurich
   * 1222-1626
   * train TGS 9213
@@ -85,4 +85,4 @@
 * Gare du Nord to Saint Pancras
   * Eurostar 1602-1730
   * coach 3, seat 25
-  * booking ref. 7KJFQT
+  * booking ref. 7....T
