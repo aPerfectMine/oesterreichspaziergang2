@@ -26,7 +26,7 @@
 
 ## Tuesday 1st July
 * travel to Neustift
-  * bus or train
+  * 590a/590b bus from Innsbruck Hauptbahnhof to Neustift im Stubaital Neder
 * Obergasse 15
 
 ## Thursday 3rd July
