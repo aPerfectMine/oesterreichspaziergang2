@@ -11,3 +11,5 @@
 ## accommodation
 * MotelOne, Insbruck
   * 264 euro
+* AirBnB
+  * £1014.44
