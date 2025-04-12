@@ -25,40 +25,20 @@
 # walking
 
 ## Tuesday 1st July
-* deposit luggage
-* travel to Neder
+* travel to Neustift
   * bus or train
-  * train would be free
-* walk to Innsbrucker Hütte
-  * Reservierungsnummer 4950327
-
-## Wednesday 2nd July
-* walk to Bremer Hütte
-  * Reservierungsnummer 4950372
+* Obergasse 15
 
 ## Thursday 3rd July
-* walk to Nürnberger Hütte
-  * Reservierungsnummer 4950383
+* walk to Innsbrucker Hütte
+  * Reservierungsnummer xxxxxxx
 
 ## Friday 4th July
-* walk to Sulzenauhütte
-  * Reservierungsnummer 4950392
+* walk halfway to Bremer Hütte ...
+* ... and back to Innsbrucker Hütte
 
 ## Saturday 5th July
-* walk to Dresdner Hütte
-  * Reservierungsnummer 4943769
-
-## Sunday 6th July
-* walk to Neue Regensberger Hütte
-  * Reservierungsnummer 4950395
-
-## Monday 7th July
-* walk to Franz-Senn-Hütte
-  * Reservierungsnummer 16757
-
-## Tuesday 8th July
-* walk to Starkenberger Hütte
-  * Reservierungsnummer 4950409
+* walk back down
 
 ---
 
