@@ -35,10 +35,7 @@
 
 ## Friday 4th July
 * walk halfway to Bremer Hütte ...
-* ... and back to Innsbrucker Hütte
-
-## Saturday 5th July
-* walk back down
+* ... and back to Neustift via the cable car
 
 ---
 
